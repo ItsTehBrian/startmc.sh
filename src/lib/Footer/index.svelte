@@ -1,6 +1,16 @@
 <footer class="footer">
     <div class="footer-layout">
         <ul class="list">
+            <li class="list-text">
+            <a>           brian</a>
+            <p>             🤠</p>
+            <p>　　💯💯💯</p>
+            <p>　💯 　💯　💯</p>
+            <p>👇🏽　 💯💯　👇🏽</p>
+            <p>　　💯　 💯</p>
+            <p>　　💯　　💯</p>
+            <p>　　 👢　　👢 </p>
+            </li>
             <li class="list-text"><a>aber</a> 🤝 <a>blue</a></li>
             <li class="list-text"><a href="https://github.com/startmc/startmc.sh">⭐ on github</a></li>
             <li class="list-text"><a href="https://chat.ksc.sh/">💬 on discord</a></li>
