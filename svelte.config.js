@@ -1,10 +1,10 @@
-import adapter from '@sveltejs/adapter-node'
+import adapter from '@sveltejs/adapter-netlify';
 
 const config = {
     kit: {
         // hydrate the <div id="svelte"> element in src/app.html
-        target: '#app',
-        adapter: adapter()
+        adapter: adapter(), // currently the adapter does not take any options
+        target: '#svelte'
     }
 }
 
